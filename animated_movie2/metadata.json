@@ -1,0 +1,32 @@
+{
+  "scene": "/teamspace/lightning_storage/final_project_3DGS/trained_models/scene_training",
+  "curby": "/teamspace/lightning_storage/final_project_3DGS/trained_models/curby_training",
+  "cat": "/teamspace/lightning_storage/final_project_3DGS/trained_models/cat_training",
+  "fps": 30,
+  "total_frames": 420,
+  "duration_seconds": 14.0,
+  "resolution": [
+    1280,
+    720
+  ],
+  "curby_filter_params": {
+    "center_first": true,
+    "filter_outliers": true,
+    "density_radius": 0.15,
+    "percentile": 40,
+    "min_opacity": 0.0,
+    "color_filter_outside_core": true,
+    "core_percentile": 20,
+    "max_saturation": 0.3
+  },
+  "cat_filter_params": {
+    "center_first": true,
+    "filter_outliers": true,
+    "density_radius": 0.3,
+    "percentile": 70,
+    "min_opacity": 0.0,
+    "color_filter_outside_core": true,
+    "core_percentile": 65,
+    "max_saturation": 0.4
+  }
+}

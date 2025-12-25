@@ -1,0 +1,27 @@
+{
+  "scene": "/teamspace/lightning_storage/final_project_3DGS/trained_models/scene_training",
+  "objects": [
+    "/teamspace/lightning_storage/final_project_3DGS/trained_models/cat_training"
+  ],
+  "transforms": [
+    {
+      "translation": [
+        -0.8,
+        0,
+        0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.5,
+      "filter_outliers": true,
+      "density_radius": 0.3,
+      "min_density": 30
+    }
+  ],
+  "num_gaussians": 1800000,
+  "remove_bright": false,
+  "brightness_threshold": 0.8
+}

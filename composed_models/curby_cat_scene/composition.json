@@ -1,0 +1,52 @@
+{
+  "scene": "/teamspace/lightning_storage/final_project_3DGS/trained_models/scene_training",
+  "objects": [
+    "/teamspace/lightning_storage/final_project_3DGS/trained_models/curby_training",
+    "/teamspace/lightning_storage/final_project_3DGS/trained_models/cat_training"
+  ],
+  "transforms": [
+    {
+      "translation": [
+        -0.8,
+        0,
+        0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5,
+      "filter_outliers": true,
+      "density_radius": 0.15,
+      "percentile": 40,
+      "min_opacity": 0.0,
+      "color_filter_outside_core": true,
+      "core_percentile": 20,
+      "max_saturation": 0.3
+    },
+    {
+      "translation": [
+        -0.8,
+        0.5,
+        0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.5,
+      "filter_outliers": true,
+      "density_radius": 0.3,
+      "percentile": 70,
+      "min_opacity": 0.0,
+      "color_filter_outside_core": true,
+      "core_percentile": 65,
+      "max_saturation": 0.4
+    }
+  ],
+  "num_gaussians": 1881153,
+  "remove_bright": false,
+  "brightness_threshold": 0.8
+}

@@ -1,0 +1,8402 @@
+[
+  {
+    "frame": 0,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 1,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 2,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 3,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 4,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 5,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 6,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 7,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 8,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 9,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 10,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 11,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 12,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 13,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 14,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 15,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 16,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 17,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 18,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 19,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 20,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 21,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 22,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 23,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 24,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 25,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 26,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 27,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 28,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 29,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 30,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 31,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 32,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 33,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 34,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 35,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 36,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 37,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 38,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 39,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 40,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 41,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 42,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 43,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 44,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 45,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 46,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 47,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 48,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 49,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 50,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 51,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 52,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 53,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 54,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 55,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 56,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 57,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 58,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 59,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150,
+        0,
+        30
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 60,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        30.0
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 61,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        42.13483146067416
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 62,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        54.26966292134831
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 63,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        66.40449438202248
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 64,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        78.53932584269663
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 65,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        90.67415730337078
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 66,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        102.80898876404494
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 67,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        114.9438202247191
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 68,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        127.07865168539325
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 69,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        139.2134831460674
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 70,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        151.34831460674155
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 71,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        163.48314606741573
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 72,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        175.61797752808988
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 73,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        187.75280898876403
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 74,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        199.8876404494382
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 75,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        212.02247191011236
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 76,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        224.1573033707865
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 77,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        236.29213483146066
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 78,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        248.42696629213484
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 79,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        260.56179775280896
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 80,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        272.6966292134831
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 81,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        284.83146067415726
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 82,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        296.96629213483146
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 83,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        309.1011235955056
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 84,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        321.23595505617976
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 85,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        333.37078651685397
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 86,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        345.50561797752806
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 87,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        357.64044943820227
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 88,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        369.7752808988764
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 89,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        381.91011235955057
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 90,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        394.0449438202247
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 91,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        406.1797752808989
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 92,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        418.314606741573
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 93,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        430.4494382022472
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 94,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        442.5842696629213
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 95,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        454.7191011235955
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 96,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        466.85393258426967
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 97,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        478.9887640449438
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 98,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        491.12359550561797
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 99,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        503.2584269662922
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 100,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        515.3932584269662
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 101,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        527.5280898876405
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 102,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        539.6629213483145
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 103,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        551.7977528089888
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 104,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        563.9325842696629
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 105,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        576.0674157303371
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 106,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        588.2022471910112
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 107,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        600.3370786516854
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 108,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        612.4719101123595
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 109,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        624.6067415730337
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 110,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        636.7415730337079
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 111,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        648.876404494382
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 112,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        661.0112359550561
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 113,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        673.1460674157304
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 114,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        685.2808988764045
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 115,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        697.4157303370786
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 116,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        709.5505617977528
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 117,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        721.685393258427
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 118,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        733.8202247191011
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 119,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        745.9550561797753
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 120,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        758.0898876404494
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 121,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        770.2247191011236
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 122,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        782.3595505617978
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 123,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        794.4943820224719
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 124,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        806.629213483146
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 125,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        818.7640449438202
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 126,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        830.8988764044944
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 127,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        843.0337078651685
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 128,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        855.1685393258426
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 129,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        867.3033707865169
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 130,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        879.438202247191
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 131,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        891.5730337078651
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 132,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        903.7078651685393
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 133,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        915.8426966292135
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 134,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        927.9775280898876
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 135,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        940.1123595505618
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 136,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        952.2471910112359
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 137,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        964.3820224719101
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 138,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        976.5168539325844
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 139,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        988.6516853932584
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 140,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        1000.7865168539325
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 141,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        1012.9213483146067
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 142,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        1025.056179775281
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 143,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        1037.191011235955
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 144,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        1049.325842696629
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 145,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        1061.4606741573034
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 146,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        1073.5955056179776
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 147,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        1085.7303370786517
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 148,
+    "curby": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        150.0,
+        0.0,
+        1097.8651685393259
+      ],
+      "scale": 0.5
+    },
+    "cat": {
+      "visible": false
+    }
+  },
+  {
+    "frame": 149,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.5
+    }
+  },
+  {
+    "frame": 150,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.5
+    }
+  },
+  {
+    "frame": 151,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.5126050420168067
+    }
+  },
+  {
+    "frame": 152,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.5252100840336135
+    }
+  },
+  {
+    "frame": 153,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.5378151260504201
+    }
+  },
+  {
+    "frame": 154,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.5504201680672269
+    }
+  },
+  {
+    "frame": 155,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.5630252100840336
+    }
+  },
+  {
+    "frame": 156,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.5756302521008403
+    }
+  },
+  {
+    "frame": 157,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.5882352941176471
+    }
+  },
+  {
+    "frame": 158,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.6008403361344538
+    }
+  },
+  {
+    "frame": 159,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.6134453781512605
+    }
+  },
+  {
+    "frame": 160,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.6260504201680672
+    }
+  },
+  {
+    "frame": 161,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.6386554621848739
+    }
+  },
+  {
+    "frame": 162,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.6512605042016807
+    }
+  },
+  {
+    "frame": 163,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.6638655462184874
+    }
+  },
+  {
+    "frame": 164,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.6764705882352942
+    }
+  },
+  {
+    "frame": 165,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.6890756302521008
+    }
+  },
+  {
+    "frame": 166,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.7016806722689075
+    }
+  },
+  {
+    "frame": 167,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.7142857142857143
+    }
+  },
+  {
+    "frame": 168,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.726890756302521
+    }
+  },
+  {
+    "frame": 169,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.7394957983193278
+    }
+  },
+  {
+    "frame": 170,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.7521008403361344
+    }
+  },
+  {
+    "frame": 171,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.7647058823529411
+    }
+  },
+  {
+    "frame": 172,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.7773109243697479
+    }
+  },
+  {
+    "frame": 173,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.7899159663865547
+    }
+  },
+  {
+    "frame": 174,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.8025210084033614
+    }
+  },
+  {
+    "frame": 175,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.8151260504201681
+    }
+  },
+  {
+    "frame": 176,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.8277310924369747
+    }
+  },
+  {
+    "frame": 177,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.8403361344537815
+    }
+  },
+  {
+    "frame": 178,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.8529411764705882
+    }
+  },
+  {
+    "frame": 179,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.865546218487395
+    }
+  },
+  {
+    "frame": 180,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.8781512605042017
+    }
+  },
+  {
+    "frame": 181,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.8907563025210085
+    }
+  },
+  {
+    "frame": 182,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.9033613445378151
+    }
+  },
+  {
+    "frame": 183,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.9159663865546219
+    }
+  },
+  {
+    "frame": 184,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.9285714285714286
+    }
+  },
+  {
+    "frame": 185,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.9411764705882353
+    }
+  },
+  {
+    "frame": 186,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.953781512605042
+    }
+  },
+  {
+    "frame": 187,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.9663865546218487
+    }
+  },
+  {
+    "frame": 188,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.9789915966386554
+    }
+  },
+  {
+    "frame": 189,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 0.9915966386554622
+    }
+  },
+  {
+    "frame": 190,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.004201680672269
+    }
+  },
+  {
+    "frame": 191,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.0168067226890756
+    }
+  },
+  {
+    "frame": 192,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.0294117647058822
+    }
+  },
+  {
+    "frame": 193,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.042016806722689
+    }
+  },
+  {
+    "frame": 194,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.0546218487394958
+    }
+  },
+  {
+    "frame": 195,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.0672268907563025
+    }
+  },
+  {
+    "frame": 196,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.0798319327731094
+    }
+  },
+  {
+    "frame": 197,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.092436974789916
+    }
+  },
+  {
+    "frame": 198,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.1050420168067228
+    }
+  },
+  {
+    "frame": 199,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.1176470588235294
+    }
+  },
+  {
+    "frame": 200,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.1302521008403361
+    }
+  },
+  {
+    "frame": 201,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.1428571428571428
+    }
+  },
+  {
+    "frame": 202,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.1554621848739495
+    }
+  },
+  {
+    "frame": 203,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.1680672268907564
+    }
+  },
+  {
+    "frame": 204,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.180672268907563
+    }
+  },
+  {
+    "frame": 205,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.1932773109243697
+    }
+  },
+  {
+    "frame": 206,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.2058823529411764
+    }
+  },
+  {
+    "frame": 207,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.2184873949579833
+    }
+  },
+  {
+    "frame": 208,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.23109243697479
+    }
+  },
+  {
+    "frame": 209,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.2436974789915967
+    }
+  },
+  {
+    "frame": 210,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.2563025210084033
+    }
+  },
+  {
+    "frame": 211,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.26890756302521
+    }
+  },
+  {
+    "frame": 212,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.281512605042017
+    }
+  },
+  {
+    "frame": 213,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.2941176470588236
+    }
+  },
+  {
+    "frame": 214,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.3067226890756303
+    }
+  },
+  {
+    "frame": 215,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.319327731092437
+    }
+  },
+  {
+    "frame": 216,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.3319327731092439
+    }
+  },
+  {
+    "frame": 217,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.3445378151260505
+    }
+  },
+  {
+    "frame": 218,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.3571428571428572
+    }
+  },
+  {
+    "frame": 219,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.3697478991596639
+    }
+  },
+  {
+    "frame": 220,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.3823529411764706
+    }
+  },
+  {
+    "frame": 221,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.3949579831932772
+    }
+  },
+  {
+    "frame": 222,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.407563025210084
+    }
+  },
+  {
+    "frame": 223,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.4201680672268908
+    }
+  },
+  {
+    "frame": 224,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.4327731092436975
+    }
+  },
+  {
+    "frame": 225,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.4453781512605042
+    }
+  },
+  {
+    "frame": 226,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.4579831932773109
+    }
+  },
+  {
+    "frame": 227,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.4705882352941178
+    }
+  },
+  {
+    "frame": 228,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.4831932773109244
+    }
+  },
+  {
+    "frame": 229,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.495798319327731
+    }
+  },
+  {
+    "frame": 230,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.5084033613445378
+    }
+  },
+  {
+    "frame": 231,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.5210084033613445
+    }
+  },
+  {
+    "frame": 232,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.5336134453781511
+    }
+  },
+  {
+    "frame": 233,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.5462184873949578
+    }
+  },
+  {
+    "frame": 234,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.5588235294117647
+    }
+  },
+  {
+    "frame": 235,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.5714285714285714
+    }
+  },
+  {
+    "frame": 236,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.584033613445378
+    }
+  },
+  {
+    "frame": 237,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.5966386554621848
+    }
+  },
+  {
+    "frame": 238,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.6092436974789917
+    }
+  },
+  {
+    "frame": 239,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.6218487394957983
+    }
+  },
+  {
+    "frame": 240,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.634453781512605
+    }
+  },
+  {
+    "frame": 241,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.6470588235294117
+    }
+  },
+  {
+    "frame": 242,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.6596638655462186
+    }
+  },
+  {
+    "frame": 243,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.6722689075630253
+    }
+  },
+  {
+    "frame": 244,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.684873949579832
+    }
+  },
+  {
+    "frame": 245,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.6974789915966388
+    }
+  },
+  {
+    "frame": 246,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.7100840336134455
+    }
+  },
+  {
+    "frame": 247,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.7226890756302522
+    }
+  },
+  {
+    "frame": 248,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.7352941176470589
+    }
+  },
+  {
+    "frame": 249,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.7478991596638656
+    }
+  },
+  {
+    "frame": 250,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.7605042016806722
+    }
+  },
+  {
+    "frame": 251,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.773109243697479
+    }
+  },
+  {
+    "frame": 252,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.7857142857142856
+    }
+  },
+  {
+    "frame": 253,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.7983193277310925
+    }
+  },
+  {
+    "frame": 254,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.8109243697478992
+    }
+  },
+  {
+    "frame": 255,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.8235294117647058
+    }
+  },
+  {
+    "frame": 256,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.8361344537815127
+    }
+  },
+  {
+    "frame": 257,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.8487394957983194
+    }
+  },
+  {
+    "frame": 258,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.861344537815126
+    }
+  },
+  {
+    "frame": 259,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.8739495798319328
+    }
+  },
+  {
+    "frame": 260,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.8865546218487395
+    }
+  },
+  {
+    "frame": 261,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.8991596638655461
+    }
+  },
+  {
+    "frame": 262,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.9117647058823528
+    }
+  },
+  {
+    "frame": 263,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.9243697478991595
+    }
+  },
+  {
+    "frame": 264,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.9369747899159664
+    }
+  },
+  {
+    "frame": 265,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.949579831932773
+    }
+  },
+  {
+    "frame": 266,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.9621848739495797
+    }
+  },
+  {
+    "frame": 267,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.9747899159663864
+    }
+  },
+  {
+    "frame": 268,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 1.9873949579831933
+    }
+  },
+  {
+    "frame": 269,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 270,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 271,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 272,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 273,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 274,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 275,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 276,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 277,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 278,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 279,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 280,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 281,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 282,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 283,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 284,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 285,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 286,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 287,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 288,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 289,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 290,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 291,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 292,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 293,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 294,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 295,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 296,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 297,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 298,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 299,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 300,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 301,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 302,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 303,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 304,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 305,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 306,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 307,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 308,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 309,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 310,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 311,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 312,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 313,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 314,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 315,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 316,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 317,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 318,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 319,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 320,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 321,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 322,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 323,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 324,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 325,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 326,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 327,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 328,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 329,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 330,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 331,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 332,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 333,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 334,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 335,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 336,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 337,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 338,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 339,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 340,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 341,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 342,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 343,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 344,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 345,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 346,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 347,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 348,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 349,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 350,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 351,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 352,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 353,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 354,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 355,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 356,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 357,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 358,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 359,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 360,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 361,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.8711864406779661,
+        0.0,
+        0.03389830508474576
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 362,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -0.9423728813559322,
+        0.0,
+        0.06779661016949153
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 363,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -1.0135593220338983,
+        0.0,
+        0.1016949152542373
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 364,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -1.0847457627118644,
+        0.0,
+        0.13559322033898305
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 365,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -1.1559322033898305,
+        0.0,
+        0.1694915254237288
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 366,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -1.2271186440677968,
+        0.0,
+        0.2033898305084746
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 367,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -1.298305084745763,
+        0.0,
+        0.23728813559322035
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 368,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -1.369491525423729,
+        0.0,
+        0.2711864406779661
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 369,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -1.440677966101695,
+        0.0,
+        0.3050847457627119
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 370,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -1.5118644067796612,
+        0.0,
+        0.3389830508474576
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 371,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -1.5830508474576273,
+        0.0,
+        0.3728813559322034
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 372,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -1.6542372881355933,
+        0.0,
+        0.4067796610169492
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 373,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -1.7254237288135594,
+        0.0,
+        0.4406779661016949
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 374,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -1.7966101694915255,
+        0.0,
+        0.4745762711864407
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 375,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -1.8677966101694916,
+        0.0,
+        0.5084745762711864
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 376,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -1.9389830508474577,
+        0.0,
+        0.5423728813559322
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 377,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -2.010169491525424,
+        0.0,
+        0.576271186440678
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 378,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -2.0813559322033903,
+        0.0,
+        0.6101694915254238
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 379,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -2.152542372881356,
+        0.0,
+        0.6440677966101694
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 380,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -2.223728813559322,
+        0.0,
+        0.6779661016949152
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 381,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -2.294915254237288,
+        0.0,
+        0.711864406779661
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 382,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -2.3661016949152547,
+        0.0,
+        0.7457627118644068
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 383,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -2.4372881355932208,
+        0.0,
+        0.7796610169491526
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 384,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -2.508474576271187,
+        0.0,
+        0.8135593220338984
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 385,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -2.5796610169491525,
+        0.0,
+        0.847457627118644
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 386,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -2.650847457627119,
+        0.0,
+        0.8813559322033898
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 387,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -2.722033898305085,
+        0.0,
+        0.9152542372881356
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 388,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -2.793220338983051,
+        0.0,
+        0.9491525423728814
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 389,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -2.8644067796610173,
+        0.0,
+        0.9830508474576272
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 390,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -2.9355932203389834,
+        0.0,
+        1.0169491525423728
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 391,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -3.0067796610169495,
+        0.0,
+        1.0508474576271187
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 392,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -3.0779661016949156,
+        0.0,
+        1.0847457627118644
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 393,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -3.1491525423728817,
+        0.0,
+        1.11864406779661
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 394,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -3.2203389830508478,
+        0.0,
+        1.152542372881356
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 395,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -3.291525423728814,
+        0.0,
+        1.1864406779661016
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 396,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -3.36271186440678,
+        0.0,
+        1.2203389830508475
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 397,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -3.433898305084746,
+        0.0,
+        1.2542372881355932
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 398,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -3.505084745762712,
+        0.0,
+        1.2881355932203389
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 399,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -3.576271186440678,
+        0.0,
+        1.3220338983050848
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 400,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -3.6474576271186443,
+        0.0,
+        1.3559322033898304
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 401,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -3.7186440677966104,
+        0.0,
+        1.3898305084745763
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 402,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -3.7898305084745765,
+        0.0,
+        1.423728813559322
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 403,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -3.8610169491525426,
+        0.0,
+        1.4576271186440677
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 404,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -3.9322033898305087,
+        0.0,
+        1.4915254237288136
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 405,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -4.003389830508475,
+        0.0,
+        1.5254237288135593
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 406,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -4.074576271186441,
+        0.0,
+        1.5593220338983051
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 407,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -4.145762711864407,
+        0.0,
+        1.5932203389830508
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 408,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -4.216949152542373,
+        0.0,
+        1.6271186440677967
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 409,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -4.288135593220339,
+        0.0,
+        1.6610169491525424
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 410,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -4.359322033898305,
+        0.0,
+        1.694915254237288
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 411,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -4.430508474576271,
+        0.0,
+        1.728813559322034
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 412,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -4.501694915254237,
+        0.0,
+        1.7627118644067796
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 413,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -4.5728813559322035,
+        0.0,
+        1.7966101694915255
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 414,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -4.6440677966101696,
+        0.0,
+        1.8305084745762712
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 415,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -4.715254237288136,
+        0.0,
+        1.8644067796610169
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 416,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -4.786440677966102,
+        0.0,
+        1.8983050847457628
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 417,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -4.857627118644068,
+        0.0,
+        1.9322033898305084
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 418,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -4.928813559322034,
+        0.0,
+        1.9661016949152543
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  },
+  {
+    "frame": 419,
+    "curby": {
+      "visible": false
+    },
+    "cat": {
+      "visible": true,
+      "translation": [
+        -5.0,
+        0.0,
+        2.0
+      ],
+      "rotation": [
+        180,
+        0,
+        60
+      ],
+      "scale": 2.0
+    }
+  }
+]
